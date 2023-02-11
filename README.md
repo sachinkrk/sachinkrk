@@ -11,10 +11,10 @@
      <a href="https://github.com/Abhisek753/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Sachin Kumar 🏽; I am a Backend%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </h3>
-<br/>
+<!-- <br/> -->
 <!-- <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" height="200px" width="300" align="right" alt="animation"/> -->
 
-<br/>
+<!-- <br/> -->
 
 - 🔭 I’m currently working on **JAVA**
 
