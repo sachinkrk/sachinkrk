@@ -16,15 +16,15 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at **<a href="https://sachinkrk.github.io/">Portfolio</a>**
+- 👨‍💻 All of my projects are available at **<a href="https://sachinkrk.github.io/" target="_blank">Portfolio</a>**
 
 - 🤝 I’m looking for help with **collaborate projects**
 
 - 💬 Ask me about **Java, Python, JavaScript**
 
-- 📫 How to reach me **<a href="sachinkrkashyap1995@gmail.com">Mail</a>**
+- 📫 How to reach me **<a href="sachinkrkashyap1995@gmail.com" target="_blank">Mail</a>**
 
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/14tU7ld5i5gaUzkvLCBB-OF6m7CObhxhT/view?usp=sharing">Resume</a>**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/14tU7ld5i5gaUzkvLCBB-OF6m7CObhxhT/view?usp=sharing" target="_blank">Resume</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
