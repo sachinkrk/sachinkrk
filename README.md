@@ -11,28 +11,24 @@
      <a href="https://github.com/Abhisek753/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Sachin Kumar 🏽; I am a Backend%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </h3>
-<!-- <br/> -->
-<!-- <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" height="200px" width="300" align="right" alt="animation"/> -->
-
-<!-- <br/> -->
-
-- 🔭 I’m currently working on **JAVA**
+      
+<img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" height="200px" width="300" align="right" alt="animation"/>
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **open source project**
+- 👨‍💻 All of my projects are available at **<a href="https://sachinkrk.github.io/">Portfolio</a>**
 
 - 🤝 I’m looking for help with **collaborate projects**
 
 - 💬 Ask me about **Java, Python, JavaScript**
 
-- 📫 How to reach me **sachinkrkashyap1995@gmail.com**
+- 📫 How to reach me **<a href="sachinkrkashyap1995@gmail.com">Mail</a>**
 
-- ⚡ Fun fact **I love cooking both coding and food too**
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/14tU7ld5i5gaUzkvLCBB-OF6m7CObhxhT/view?usp=sharing">Resume</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sachin kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sachin kumar" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/sachin kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sachin kumar" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/sachin-kumar-563342230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin kumar" height="30" width="40" /></a>
 </p>
 
