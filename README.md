@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Java, Python, JavaScript**
 
-- 📫 How to reach me **<a href="sachinkrkashyap1995@gmail.com" target="_blank">Mail</a>**
+- 📫 How to reach me **sachinkrkashyap1995@gmail.com**
 
 - 📄 Know about my experiences **<a href="https://drive.google.com/file/d/14tU7ld5i5gaUzkvLCBB-OF6m7CObhxhT/view?usp=sharing" target="_blank">Resume</a>**
 
